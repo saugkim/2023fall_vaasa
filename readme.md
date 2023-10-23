@@ -50,6 +50,7 @@ In Lecture 6, it is required to watch and study only one clip.
 Android: https://uwasa.zoom.us/j/65090542865?pwd=MEVsNTY1UU1CRzRxUkpYQ0xPRHNJdz09  
 Password: 771389  
 
+
 **PART 5**
 Lecture 7 on 27.11.2023 at 16:15 MA   
 In Lecture 7, it is required to watch and study clips 1 and 2 of Part 5.  
@@ -59,16 +60,36 @@ Password: 821665
 Lecture 8 on 29.11.2023 at 16:15 KE   
 In Lecture 8, it is required to watch and study clips 3 and 4 of Part 5.   
 https://uwasa.zoom.us/j/63416499141?pwd=bHZzWVhBTmFEN250RzNtVloxa3FJQT09  
-Password: 358449
+Password: 358449  
 
 
 **PART 6**  
+Lecture 9 on 05.12.2023 at 14:15  
+In Lecture 9, it is required to watch and study clips1,2, and 3 of Part 6.   
+https://uwasa.zoom.us/j/63198502341?pwd=a0w5K2hzTFNBNEExYjlTaGFjZitZUT09  
+Password: 670629  
+
 
 **PART 7**  
+Lecture 10 on 07.12.2023 at 16:15  
+In Lecture 10, it is required to watch and study clips 1, 2, and 3 of Part 7.   
+https://uwasa.zoom.us/j/68629480060?pwd=Y25mOUtJS0Zva0FZMWNaL2kyS0Vhdz09  
+Password: 169943
+
+Lecture 11 on 11.12.2023 at 14:15
+In Lecture 11, it is required to watch and study clips 4 and 5 Part 7.   
+https://uwasa.zoom.us/j/62672682565?pwd=LzJTekJOYy9EanVVQmpVWmY3KzJVUT09  
+Password: 271566
+
 
 **PART 8**  
+Lecture 12 on 13.12.2023 at 14:15  
+In Lecture 12, it is required to watch and study clips 1 and 2 of Part 8.  
+https://uwasa.zoom.us/j/62007667992?pwd=cDJLRnE2QUhmSXBwOENvZ2R4RUN2UT09  
+Password: 125259
 
 
+ 
 ## Part 1: Fundamentals
 
 In this part, we will introduce several fundamental concepts that are necessary for the rest of the course. Part 1 has  been recorded in 4 video clips. 
@@ -218,8 +239,76 @@ Be aware of some of the challenges of OFDM and the meaning of the PAPR problem.
 Be aware of the structures of radio receivers and the recement development of the software-defined radios (SDR).
 ```
 
+## Part 6. Short and Medium Range Wireless Technologies
+
+In this part, we came to the available technologies of wireless communication. However, these technologies have been classified based on their coverage area as short/medium and wide range technologies. The short and medium-range are reviewed in this Part. However, we introduce also some foundations of these technologies like layered communication, protocols, etc.  
+
+Oulines of Part 6:
+```
+Review of wireless technologies
+Applications’ Requirements 
+Telecommunication Layers
+Internet Protocol
+Communication Topologies
+Carrier Sense Multiple Access
+Routing Protocols
+Short Range Technologies (Bluetooth, Zigbee, UWB, NFC)
+Low-Energy Communication
+Battery-less Communication 
+WiFi Technologies (IEEE802.11 a;b;g;n;ax;ac,be,..)
+```
+
+Learning Outcomes:  
+After watching all recorded clips of this Part 6, attending the online sessions, and performing the quizzes successfully, you will
+```
+Be aware of wireless technology and communication layers,
+Be able to describe how the internet protocol is working
+Be able to explain the CSMA/CA which is the main communication protocol of short and medium-range systems. 
+Be able to differentiate between different small-range technologies such as Bluetooth, Zigbee, NFC, and UWB. Be able also to select the best for your application
+Be aware of multi-hops communication and battery-less devices. 
+Be aware of different available WiFi standards. 
+```
 
 
+## Part 7. Cellular Networks and WAN
 
+In Part 7, we continue the brief survey of available wireless technologies. Here, we consider mainly the cellular networks.  Cellular networks are the most widely used as well as the most important wide-area network technology. The main concept of the cellular networks started with the GSM. Hence, we reviewed the concepts of cellular networks operation based on the GSM network. After that, we reviewed the most important generations of cellular networks and their major technologies and QoS.  Furthermore, we discussed the need for independent (i.e., not a 3ed party) WAN technology such as LoRaWAN. 
+
+Outlines of Part 7:
+```
+Concepts of Cellular Networks
+3GPP Standards and Network Evolutions
+GSM Network Structure and Operation
+3G (UMTS) Mobile Network
+4G Mobile Networks
+5G Mobile Networks
+5G New Radio (NR)
+5G Network Elements
+Standalone WAN Networks
+```
+
+Learning Outcomes:  
+After watching the recorded clips, attending the online sessions, and performing the quizzes successfully, you will
+```
+Be able to explain the concepts of cellular networks and their structure as well as operations
+Be aware of 3GPP standard and its roles in cellular networks 
+Be aware of the differences between most mobile network generations: GSM, 3G, LTE-A, and 5G. You will be aware of their performance and QoS levels
+Be aware of several advanced technologies used to enhance the performance of cellular networks 
+Be award of standalone WAN like LoRaWAN technology. 
+```
+
+## Topic 8: Emerging Technologies and Future Applications
+
+In this part, we review some emerging applications of wireless communication technologies. 
+
+Outlines of Part 8:
+```
+Cognitive Radios 
+Satellite Networks
+Internet of Things (IoT)
+Edge Computing
+Cloud Storage and Computing
+The requirements for 6G
+```
 
 
