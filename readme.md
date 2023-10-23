@@ -45,12 +45,22 @@ Password: 135006
 
 
 **PART 4**  
-Lecture 6 on 22.11.2023 at 14:15  
+Lecture 6 on 22.11.2023 at 14:15 KE   
 In Lecture 6, it is required to watch and study only one clip.  
 Android: https://uwasa.zoom.us/j/65090542865?pwd=MEVsNTY1UU1CRzRxUkpYQ0xPRHNJdz09  
 Password: 771389  
 
 **PART 5**
+Lecture 7 on 27.11.2023 at 16:15 MA   
+In Lecture 7, it is required to watch and study clips 1 and 2 of Part 5.  
+https://uwasa.zoom.us/j/67052324141?pwd=RHl1R2FiS0k2V3I5YUxsdW1BYVU0dz09  
+Password: 821665
+
+Lecture 8 on 29.11.2023 at 16:15 KE   
+In Lecture 8, it is required to watch and study clips 3 and 4 of Part 5.   
+https://uwasa.zoom.us/j/63416499141?pwd=bHZzWVhBTmFEN250RzNtVloxa3FJQT09  
+Password: 358449
+
 
 **PART 6**  
 
@@ -123,8 +133,90 @@ Be able to explain in detail the concepts of digital receivers as well as the im
 Be aware of the fundamentals of different kinds of coding in digital communication
 ```
 
+## Part 3. Wireless Channels
+
+Wireless channel is the media between transmitters and receiver in wireless communication. Wireless channels are shared between all communication systems over a certain frequency spectrum. There are many challenges inherent in wireless communication such as large losses, noise signals, interferences, multipath, inter-symbol-interference (ISI), destructive fading, time-varying behaviors, absorption, etc. Nevertheless, there have been advanced and clever technologies to mitigate all these problems. Actually, there have been technologies that convert some problems to benefits. You will learn more by watching all recorded lectures and attending the online sessions. 
 
 
+Outlines of Part 3
+```
+Introduction to Wireless Channel
+Multipath in wireless channels 
+ISI, time-varying, and fading problems
+Fading Manifestation
+Equalization
+Diversity
+Interleaving  
+Antennas
+Multiple antennas and Beamforming
+MIMO antennas
+Channel capacity
+MIMO Capacity
+```
+
+Learning Outcomes  
+After watching carefully and studying the recorded clips of Part 3, attending the online session, and performing the quizzes successfully, you will 
+```
+Be aware of the major challenges of wireless communication channels that limit the performance of wireless communication
+Be able to demonstrate the two different kinds of fading problems
+Be aware of the technologies to handle the wireless channel's problems like equalization and diversity
+Be aware of MIMO technology and why it is a corner pillar in advanced systems
+```
+
+## Part 4. Performance and Requirements 
+
+Different applications will require different quality factors of wireless communication. Hence, it is critically important to know the different parameters of the quality of service in wireless communication. 
+This is the topic of Part 4. 
+
+Outlines of Part 4:
+```
+Quality of Service and Requirements in Wireless Communication
+Reliability
+Security
+Throughput 
+Latency and jitter
+Bit error rate and Packet Errors
+Outage
+```
+
+Learning Outcomes  
+After watching carefully and studying the recorded clips of Part 4, attending the online session, and performing the quizzes successfully, you will
+```
+Be able to demonstrate the major performance and quality measures in digital communication networks.
+Be able to select the proper communication technology based on the system requirements 
+```
+
+
+## Part 5. Modern Modulation Techniques
+
+Modern wireless communication will be part of systems that have different requirements, for example
+```
+Extremely high data rate (e.g., > 300 Mbits/s)
+Support a massive number of terminals (e.g., > 100,000 devices per km2 )
+Provide high reliable links
+Achieve very small latency (<5 ms)
+```
+Such requirements require very sophisticated modulation and multiple access techniques. Therefore, in this part, we will review very briefly the most important modulation and multiple access techniques (CDMA, OFDM, ODFMA, NOMA). Furthermore, we review the foundations of radio receivers including the famous software-defined radio (SDR). 
+
+Outlines of Part 5:
+```
+Modern Multiple Access and Modulation Techniques
+CDMA
+OFDM
+OFDMA
+Space-Time-Frequency Coding
+NOMA
+Radio Receivers
+Software-Defined Radio
+```
+
+Learning Outcome:  
+After watching carefully and studying the recorded clips of Part 5, attending the online session, and performing the quizzes successfully, you will
+```
+Be aware of the most advanced modulation and multiple access technologies like CDMA (DS, FH, and TH), OFDM, and NOMA. 
+Be aware of some of the challenges of OFDM and the meaning of the PAPR problem. 
+Be aware of the structures of radio receivers and the recement development of the software-defined radios (SDR).
+```
 
 
 
