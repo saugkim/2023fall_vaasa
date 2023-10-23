@@ -51,7 +51,7 @@ Android: https://uwasa.zoom.us/j/65090542865?pwd=MEVsNTY1UU1CRzRxUkpYQ0xPRHNJdz0
 Password: 771389  
 
 
-**PART 5**
+**PART 5**  
 Lecture 7 on 27.11.2023 at 16:15 MA   
 In Lecture 7, it is required to watch and study clips 1 and 2 of Part 5.  
 https://uwasa.zoom.us/j/67052324141?pwd=RHl1R2FiS0k2V3I5YUxsdW1BYVU0dz09  
