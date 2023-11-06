@@ -26,7 +26,7 @@ Lecture 1 on 17.10.2023 at 14:15
 Lecture 2 on 18.10.2023 at 16:15
 
 **PART 2**  
-Lecture 3 on 06.11.2023 at 16:15  
+Lecture 3 on 06.11.2023 at 14:15  
 In Lecture 3, it is required to watch and study Clips 1, 2, and 3 of Part 2.  
 https://uwasa.zoom.us/j/66644451326?pwd=SXdXSFYwNkUxekZJVDFmUFJNMFJ6dz09  
 Password: 229766
@@ -44,7 +44,7 @@ Password: 135006
 
 
 **PART 4**  
-Lecture 6 on 22.11.2023 at 14:15 KE   
+Lecture 6 on 22.11.2023 at 14:15    
 In Lecture 6, it is required to watch and study only one clip.  
 Android: https://uwasa.zoom.us/j/65090542865?pwd=MEVsNTY1UU1CRzRxUkpYQ0xPRHNJdz09  
 Password: 771389  
